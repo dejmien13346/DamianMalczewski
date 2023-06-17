@@ -7,9 +7,9 @@ Informator - Aplikacja WPF
 BookListRazor - Aplikacja - ASP .NET Core
 
 
-![image](https://github.com/dejmien13346/Damian/assets/115426151/1cba8941-5d76-44ad-a304-3baa0bd9c136)
-![image](https://github.com/dejmien13346/Damian/assets/115426151/7ca2a97f-b8fc-438e-b401-e6bdea141ab3)
-![image](https://github.com/dejmien13346/Damian/assets/115426151/404f8988-dcbc-45ca-831c-b668bdb403a2)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/1cba8941-5d76-44ad-a304-3baa0bd9c136)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/7ca2a97f-b8fc-438e-b401-e6bdea141ab3)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/404f8988-dcbc-45ca-831c-b668bdb403a2)
 
 Dom wielorodzinny - blender
 
