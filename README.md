@@ -13,10 +13,10 @@ BookListRazor - Aplikacja - ASP .NET Core
 
 Dom wielorodzinny - blender
 
-![image](https://github.com/dejmien13346/Damian/assets/115426151/2ca27cad-a196-4244-a2bc-08f564ec798a)
-![image](https://github.com/dejmien13346/Damian/assets/115426151/72300d28-617f-4a36-b80b-ca5d2837b9c3)
-![image](https://github.com/dejmien13346/Damian/assets/115426151/f9563bbb-30ec-4134-8502-d876724fd579)
-![image](https://github.com/dejmien13346/Damian/assets/115426151/cc9831b9-8010-4bcd-bfdd-5ecf56ab7b42)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/846ace16-37f6-4d42-99cd-db4fc7610c17)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/34076167-925b-4f3d-b2da-c0687ca51642)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/1f574b72-9224-4fb3-87df-051ba272ba06)
+![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/5267d5f7-37aa-4aeb-a909-6b5344049bb8)
 
 
 Program graficzny Corel
