@@ -1,3 +1,8 @@
+Reklama termomixa
+
+![Zrzut ekranu 2024-02-24 044846](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/6bdfe26a-f961-4c8b-8370-96b5e7b64033)
+
+
 Informator - Aplikacja WPF
 
 ![image](https://github.com/dejmien13346/DamianMalczewski/assets/115426151/ade0ad59-d75e-4997-95f0-def257fecbc5)
